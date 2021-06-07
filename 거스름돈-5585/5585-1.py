@@ -1,0 +1,9 @@
+N=int(input())
+l=[1,5,10,50,100,500]
+R=1000-N
+ans=0
+while(R):
+    coin=l.pop()
+    ans+=R//coin
+    R=R%coin
+print(ans)
