@@ -1,35 +1,23 @@
-
-import copy
-
-
 def solution(n, lost, reserve):
-    answer = 0
-    idx = 0
-    for i in range(len(lost)):
-        if lost[idx] in reserve:
-            reserve.remove(lost[idx])
-            lost.remove(lost[idx])
-            answer += 1
-            idx -= 1
-        idx += 1
-    idx = 0
-    for i in range(len(lost)):
-        if lost[idx]+1 in reserve:
-            reserve.remove(lost[idx]+1)
-            lost.remove(lost[idx])
-            idx -= 1
-        elif lost[idx]-1 in reserve:
-            reserve.remove(lost[idx]-1)
-            lost.remove(lost[idx])
-            idx -= 1
-        idx += 1
-    print('answer plus reserve:', n-len(lost))
+    _reserve = [r for r in reserve if r not in lost]
+    _lost = [l for l in lost if l not in reserve]
+    for r in _reserve:
+        print('r:',r)
+        f = r - 1
+        b = r + 1
+        if f in _lost:
+            _lost.remove(f)
+        elif b in _lost:
+            _lost.remove(b)
+    print('answer:',n-len(_lost))
+    return n - len(_lost)
 
 
-n = 3
-l = [3]
-r = [1]
-2
+n = 5
+l = [2, 3, 4]
+r = [3, 4, 5]
+t = l+r
+4
 '''
 n = 5
 l = [2, 4]
