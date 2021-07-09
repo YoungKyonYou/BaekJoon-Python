@@ -2,9 +2,17 @@ def solution(n, lost, reserve):
     _reserve = [r for r in reserve if r not in lost]
     _lost = [l for l in lost if l not in reserve]
     for r in _reserve:
-        print('r:',r)
         f = r - 1
         b = r + 1
+        #이 문제어서 지금 f를 b보다 먼저 체크하고 있다.
+        #이 순서가 바뀌면 안 된다.
+        #예외 케이스 
+        '''
+        n=4
+        lost=[3,1]
+        reserve[2,4]
+        답:4    
+        '''
         if f in _lost:
             _lost.remove(f)
         elif b in _lost:
