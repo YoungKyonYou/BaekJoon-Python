@@ -1,4 +1,4 @@
-import sys
+'''import sys
 input = sys.stdin.readline
 N = int(input())
 distance = []
@@ -17,3 +17,4 @@ for j in range(N-1):
         totalDistance += distance[j]
 
 m += totalDistance*city[]
+'''
