@@ -1,0 +1,267 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch MaxScoreKnacksack",
+      "request": "launch",
+      "mainClass": "InflearnDynamicProgramming.MaxScoreKnacksack",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch practice1",
+      "request": "launch",
+      "mainClass": "KakaoPayIntern.practice1",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch practice1",
+      "request": "launch",
+      "mainClass": "KakaoPayIntern.KakaoPayIntern.practice1",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch NewsClustering",
+      "request": "launch",
+      "mainClass": "KakaoBlindRecruit.NewsClustering",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch StringCompression",
+      "request": "launch",
+      "mainClass": "KakaoBlindRecruit.StringCompression",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch KaKaoFriendsColoringBook",
+      "request": "launch",
+      "mainClass": "KaKaoCode.KaKaoFriendsColoringBook",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch TakingGroupPhoto",
+      "request": "launch",
+      "mainClass": "KaKaoCode.TakingGroupPhoto",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch OneTwoFourWorld",
+      "request": "launch",
+      "mainClass": "Practice.OneTwoFourWorld",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch problem3",
+      "request": "launch",
+      "mainClass": "KDigital.problem3",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch problem2",
+      "request": "launch",
+      "mainClass": "KDigital.problem2",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch problem1",
+      "request": "launch",
+      "mainClass": "KDigital.problem1",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ExpressingWithN",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.ExpressingWithN",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumberStringAndWords2",
+      "request": "launch",
+      "mainClass": "KaKaoIntern.NumberStringAndWords2",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumberStringAndWords",
+      "request": "launch",
+      "mainClass": "KaKaoIntern.NumberStringAndWords",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch MakingPrimeNumber",
+      "request": "launch",
+      "mainClass": "SummerWinderCoding.MakingPrimeNumber",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch NewIdRecommendation",
+      "request": "launch",
+      "mainClass": "KaKaoIntern.NewIdRecommendation",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Immigration",
+      "request": "launch",
+      "mainClass": "BinarySearch.Immigration",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch CavTravel2",
+      "request": "launch",
+      "mainClass": "KaKaoIntern.CavTravel2",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch test3",
+      "request": "launch",
+      "mainClass": "KaKaoIntern.test3",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch test2",
+      "request": "launch",
+      "mainClass": "KaKaoIntern.test2",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch test1",
+      "request": "launch",
+      "mainClass": "KaKaoIntern.test1",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch CaveTravel",
+      "request": "launch",
+      "mainClass": "DFS.DFS_BFS.CaveTravel",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch test",
+      "request": "launch",
+      "mainClass": "KaKaoIntern.test",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch CaveTravel",
+      "request": "launch",
+      "mainClass": "KaKaoIntern.CaveTravel",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch MakingBigNumber",
+      "request": "launch",
+      "mainClass": "Sort.MakingBigNumber",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch WordTransformation2",
+      "request": "launch",
+      "mainClass": "DFS.DFS_BFS.WordTransformation2",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch WordTransformation",
+      "request": "launch",
+      "mainClass": "DFS.DFS_BFS.WordTransformation",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch GymClothes2",
+      "request": "launch",
+      "mainClass": "GymClothes2",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch GymClothes1",
+      "request": "launch",
+      "mainClass": "GymClothes1",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch GymClothes",
+      "request": "launch",
+      "mainClass": "GymClothes",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch MakeBigNumber",
+      "request": "launch",
+      "mainClass": "MakeBigNumber",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch sdf",
+      "request": "launch",
+      "mainClass": "sdf",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "Programmers.탐욕법.HelloWorld.src.App",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch hello",
+      "request": "launch",
+      "mainClass": "Programmers.탐욕법.hello",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "type": "java",
+      "name": "Launch HelloWorld",
+      "request": "launch",
+      "mainClass": "Programmers.탐욕법.HelloWorld",
+      "projectName": "BaekJoon-Python_f4273a6b"
+    },
+    {
+      "name": "Python: Current File",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
